@@ -10,7 +10,7 @@
   overflow: hidden;
 }
 
-.menu-item.background-image:hover {
+.menu-item:hover {
   cursor: pointer;
 }
 
